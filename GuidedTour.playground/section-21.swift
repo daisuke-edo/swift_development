@@ -1,4 +1,6 @@
-20140618 ここまで
+//20140618 ここまで
+//20140618 test
+
 var optionalString: String? = "Hello"
 optionalString == nil
 
