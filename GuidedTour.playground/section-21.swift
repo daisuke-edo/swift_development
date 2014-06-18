@@ -1,3 +1,4 @@
+20140618 ここまで
 var optionalString: String? = "Hello"
 optionalString == nil
 
