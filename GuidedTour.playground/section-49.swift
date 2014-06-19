@@ -1,3 +1,5 @@
+20140619 ここまで
+
 class Shape {
     var numberOfSides = 0
     func simpleDescription() -> String {

@@ -1,5 +1,5 @@
 var firstForLoop = 0
-for i in 0..3 {
+for i in 0...3 {
     firstForLoop += i
 }
 firstForLoop
