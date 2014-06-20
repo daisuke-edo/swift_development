@@ -1,8 +1,8 @@
-20140619 ここまで
-
-class Shape {
+class Shape
+{
     var numberOfSides = 0
-    func simpleDescription() -> String {
+    func simpleDescription() -> String
+    {
         return "A shape with \(numberOfSides) sides."
     }
 }
