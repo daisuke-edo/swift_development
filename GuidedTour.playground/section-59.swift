@@ -1,3 +1,5 @@
+201406210045ここまで
+
 class TriangleAndSquare {
     var triangle: EquilateralTriangle {
         willSet {

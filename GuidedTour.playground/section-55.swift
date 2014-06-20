@@ -1,4 +1,3 @@
-20140620ここまで
 class Square: NamedShape
 {
     var sideLength: Double
